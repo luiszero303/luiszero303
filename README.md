@@ -13,16 +13,16 @@
 - ⭐ Github Star ⭐ 
 - 📲 Tengo experiencia en identificar y analizar vulnerabilidades en aplicaciones web para fortalecer su seguridad
 - 🎥 Puedo compartir algunos conocimientos que he adquirido en ciberseguridad y detección de vulnerabilidades web, siempre abierto a aprender y mejorar junto a otros.  [Youtube](https://www.youtube.com/channel/UCuqlQBCI5XzwBu1zHLWLyMA) 
-- ✏️ Aquí puedes acceder a mi repositorio público, donde encontrarás más información sobre mis trabajos y guías relacionadas con pentesting web y ciberseguridad. 
+- ✏️ Aquí puedes acceder a mi repositorio público, donde encontrarás más información sobre mis trabajos y guías relacionadas con pentesting web y ciberseguridad.https://github.com/luiszero303?tab=repositories 
 <br>
 
-## Proyectos *bombitas*
+## PMis videos
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Guía práctica para encontrar dominios activos en una web con Subfinder y httpx</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/luiszero303/Subfinder-httpx" target="_blank"><img src="https://cdn.cyberpunk.rs/wp-content/uploads/2020/04/subfinder_bg.jpg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">

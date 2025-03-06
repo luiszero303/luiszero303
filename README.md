@@ -13,7 +13,7 @@
 - ⭐ Github Star ⭐ 
 - 📲 Tengo experiencia en identificar y analizar vulnerabilidades en aplicaciones web para fortalecer su seguridad
 - 🎥 Puedo compartir algunos conocimientos que he adquirido en ciberseguridad y detección de vulnerabilidades web, siempre abierto a aprender y mejorar junto a otros.  [Youtube](https://www.youtube.com/channel/UCuqlQBCI5XzwBu1zHLWLyMA) 
-- ✏️ Y por escrito en 
+- ✏️ Aquí puedes acceder a mi repositorio público, donde encontrarás más información sobre mis trabajos y guías relacionadas con pentesting web y ciberseguridad. 
 <br>
 
 ## Proyectos *bombitas*

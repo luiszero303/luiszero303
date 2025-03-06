@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Luis Zero 👋</h1>
 </div>
-<img src="https://static.vecteezy.com/system/resources/previews/007/882/939/non_2x/cyber-circuit-future-technology-concept-background-free-photo.jpg" width="2500" height="200">
+<img src="https://github.com/luiszero303/luiszero303/blob/main/segurity.png" width="2500" height="400">
 
 <!-- YouTube Badge (sin suscriptores) -->
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCuqlQBCI5XzwBu1zHLWLyMA?style=for-the-badge&color=purple)](https://www.youtube.com/channel/UCuqlQBCI5XzwBu1zHLWLyMA)
@@ -11,8 +11,8 @@
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
+- 📲 Tengo experiencia en identificar y analizar vulnerabilidades en aplicaciones web para fortalecer su seguridad
+- 🎥 Puedo compartir algunos conocimientos que he adquirido en ciberseguridad y detección de vulnerabilidades web, siempre abierto a aprender y mejorar junto a otros.  [Youtube](https://www.youtube.com/channel/UCuqlQBCI5XzwBu1zHLWLyMA) 
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)

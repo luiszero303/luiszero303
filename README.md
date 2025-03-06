@@ -13,9 +13,7 @@
 - ⭐ Github Star ⭐ 
 - 📲 Tengo experiencia en identificar y analizar vulnerabilidades en aplicaciones web para fortalecer su seguridad
 - 🎥 Puedo compartir algunos conocimientos que he adquirido en ciberseguridad y detección de vulnerabilidades web, siempre abierto a aprender y mejorar junto a otros.  [Youtube](https://www.youtube.com/channel/UCuqlQBCI5XzwBu1zHLWLyMA) 
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- ✏️ Y por escrito en 
 <br>
 
 ## Proyectos *bombitas*

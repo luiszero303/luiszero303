@@ -16,7 +16,7 @@
 - ✏️ Aquí puedes acceder a mi repositorio público, donde encontrarás más información sobre mis trabajos y guías relacionadas con pentesting web y ciberseguridad.https://github.com/luiszero303?tab=repositories 
 <br>
 
-## PMis videos
+## Mis videos
 <table>
 <tr>
 <td width="50%">
@@ -24,10 +24,10 @@
 <div align="center">
 <a href="https://github.com/luiszero303/Subfinder-httpx" target="_blank"><img src="https://cdn.cyberpunk.rs/wp-content/uploads/2020/04/subfinder_bg.jpg" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/luiszero303/Subfinder-httpx" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<a href="https://www.youtube.com/watch?v=7XPGU7dmZXg" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>

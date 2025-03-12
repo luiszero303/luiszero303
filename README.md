@@ -20,14 +20,14 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Guía práctica para encontrar dominios activos en una web con Subfinder y httpx</h3>
+<h3 align="center">Subfinder y HTTPX: La Herramienta Definitiva para Descubrir Subdominios Activos</h3>
 <div align="center">
-<a href="https://github.com/luiszero303/Subfinder-httpx" target="_blank"><img src="https://cdn.cyberpunk.rs/wp-content/uploads/2020/04/subfinder_bg.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/luiszero303/Subfinder-httpx" target="_blank"><img src="https://github.com/luiszero303/Subfinder-httpx/blob/main/subfinder-httpx.jpeg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/luiszero303/Subfinder-httpx" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://www.youtube.com/watch?v=7XPGU7dmZXg" target="_blank">
+<a href="https://www.youtube.com/watch?v=DGjZE2_dmKY&t=82s" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>

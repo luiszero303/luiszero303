@@ -19,7 +19,7 @@
 ## Mis videos
 <table>
 <tr>
-<td width="50%">
+<td width="50%">  
 <h3 align="center">Subfinder y HTTPX: La Herramienta Definitiva para Descubrir Subdominios Activos</h3>
 <div align="center">
 <a href="https://github.com/luiszero303/Subfinder-httpx" target="_blank"><img src="https://github.com/luiszero303/Subfinder-httpx/blob/main/subfinder-httpx.jpeg" width="400" alt="Curso básico android"></a>
@@ -31,9 +31,8 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
+<p>Aprende a descubrir subdominios activos con <strong>Subfinder y HTTPX</strong> - En este tutorial aprenderás a utilizar estas herramientas para identificar subdominios activos, obtener detalles como códigos de estado y tecnologías, y maximizar tu reconocimiento en pruebas de penetración.con todos los comandos y ejemplos disponibles para practicar.</p>
+</div>                                                                                      
 </td>
 
 <td width="50%">
@@ -50,7 +49,9 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+<p>Aprende a explotar vulnerabilidades en WordPress con <strong>WPScan</strong> - En este tutorial aprenderás a utilizar WPScan para identificar vulnerabilidades en sitios WordPress, desde la enumeración de usuarios hasta el análisis de plugins. <strong>GRATUITO</strong> con todos los comandos y ejemplos disponibles para practicar.</p>
+</div>
+
 </div>                                                             
 </table>                                                                                 
 </div>

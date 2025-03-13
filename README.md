@@ -20,6 +20,8 @@
 <table>
 <tr>
 <td width="50%">  
+<br>  
+<br>  
 <h3 align="center">Subfinder y HTTPX: La Herramienta Definitiva para Descubrir Subdominios Activos</h3>
 <div align="center">
 <a href="https://github.com/luiszero303/Subfinder-httpx" target="_blank"><img src="https://github.com/luiszero303/Subfinder-httpx/blob/main/subfinder-httpx.jpeg" width="400" alt="Curso básico android"></a>
@@ -31,6 +33,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
+</div>
 <p>Aprende a descubrir subdominios activos con <strong>Subfinder y HTTPX</strong> - En este tutorial aprenderás a utilizar estas herramientas para identificar subdominios activos, obtener detalles como códigos de estado y tecnologías, y maximizar tu reconocimiento en pruebas de penetración.con todos los comandos y ejemplos disponibles para practicar.</p>
 </div>                                                                                      
 </td>
@@ -49,7 +52,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-<p>Aprende a explotar vulnerabilidades en WordPress con <strong>WPScan</strong> - En este tutorial aprenderás a utilizar WPScan para identificar vulnerabilidades en sitios WordPress, desde la enumeración de usuarios hasta el análisis de plugins. <strong>GRATUITO</strong> con todos los comandos y ejemplos disponibles para practicar.</p>
+<p>Aprende a explotar vulnerabilidades en WordPress con <strong>WPScan</strong> - En este tutorial aprenderás a utilizar WPScan para identificar vulnerabilidades en sitios WordPress, desde la enumeración de usuarios hasta el análisis de plugins.  con todos los comandos y ejemplos disponibles para practicar.</p>
 </div>
 
 </div>                                                             

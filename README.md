@@ -74,7 +74,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p></strong>  <strong>Aprende a Utilizar Gobuster para Enumerar Directorios, Combínalo con Nmap para el Reconocimiento de Servicios y Puertos, y Luego Detecta Vulnerabilidades en las Rutas Encontradas Usando Nuclei de Forma Automática"</p>
 </div>
                                                                                       
 </td>       

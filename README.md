@@ -70,7 +70,7 @@
 <a href="https://github.com/luiszero303/Nuclei_Nmap_Gobuster/tree/main" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<a href="https://www.youtube.com/watch?v=jZBqMm7mer0&t=237s" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>

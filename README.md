@@ -63,7 +63,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">🚀 ¡El Truco Secreto Para Dominar Nuclei en Minutos! 🔥</h3>
 <div align="center">
 <a href="https://github.com/luiszero303/Nuclei_Nmap_Gobuster/tree/main" target="_blank"><img src="https://github.com/luiszero303/Nuclei_Nmap_Gobuster/blob/main/NUCLEI.png" width="400" alt="Curso intermedio Android"></a>
 <p>

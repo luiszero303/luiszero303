@@ -82,7 +82,7 @@
 <td width="50%">
 <h3 align="center">XSS: La vulnerabilidad favorita de los hackers para robar datos y modificar una web</h3>
 <div align="center">
-<a href="https://github.com/luiszero303/Inyecciones_XSS/tree/main" target="_blank"><img src="https://github.com/luiszero303/Inyecciones_XSS/blob/main/XSS.webp" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/luiszero303/Inyecciones_XSS/tree/main" target="_blank"><img src="https://github.com/luiszero303/Inyecciones_XSS/blob/main/XSS.webp" width="300" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/luiszero303/Inyecciones_XSS/tree/main" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
@@ -91,7 +91,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Pasos fundamentales para identificar si una web es vulnerable a XSS, incluyendo técnicas de detección, uso de payloads, una lista de ejemplos y atajos para agilizar la explotación</p>
 </div>
                                                                                       
 </td>  

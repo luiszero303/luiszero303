@@ -82,7 +82,7 @@
 <td width="50%">
 <h3 align="center">XSS: La vulnerabilidad favorita de los hackers para robar datos y modificar una web</h3>
 <div align="center">
-<a href="https://github.com/luiszero303/Inyecciones_XSS/tree/main" target="_blank"><img src="https://github.com/luiszero303/Inyecciones_XSS/blob/main/XSS.webp" width="300" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/luiszero303/Inyecciones_XSS/tree/main" target="_blank"><img src="https://github.com/luiszero303/Inyecciones_XSS/blob/main/XSS(1).png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/luiszero303/Inyecciones_XSS/tree/main" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">

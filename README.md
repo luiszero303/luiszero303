@@ -99,11 +99,19 @@
 </div>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ Certificados
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/luiszero303/Certificados/blob/main/Introduccion-Hacking.jpeg?raw=true" alt="Introducción Hacking" height="400em"/>
+      </td>
+      <td>
+          <img src="https://github.com/luiszero303/Certificados/blob/main/Python-Ofensivo.jpeg" alt="Python Ofensivo" height="400em"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
+

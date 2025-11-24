@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Luis Zero 👋</h1>
 </div>
-<img src="https://github.com/luiszero303/luiszero303/blob/main/segurity.png" width="2500" height="400">
+<img src="https://github.com/luiszero303/luiszero303/blob/main/Portada-Linkedin3.0.png" width="2500" height="400">
 
 <!-- YouTube Badge (sin suscriptores) -->
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCuqlQBCI5XzwBu1zHLWLyMA?style=for-the-badge&color=purple)](https://www.youtube.com/channel/UCuqlQBCI5XzwBu1zHLWLyMA)
